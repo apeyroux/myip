@@ -1,4 +1,4 @@
-Small example to use Haskell Servant Client.
+Small example to use Haskell Servant Client with https://www.ipify.org/
 
 * Usage
 
