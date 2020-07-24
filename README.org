@@ -1,0 +1,7 @@
+Small example to use Haskell Servant Client.
+
+* Usage
+
+#+begin_src 
+myip
+#+end_src
